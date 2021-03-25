@@ -1,0 +1,28 @@
+{
+    "datetime": "2021-03-13 01:40:59",
+    "run_id": "bf98d825-8193-439d-adae-845f50de92a1",
+    "pipeline_duration": "00:08:23.134",
+    "compute_config": {
+        "name": "benchmark",
+        "vm_size": "STANDARD_D2_V2",
+        "vm_priority": "Dedicated",
+        "region": "westus"
+    },
+    "steps": {
+        "prepare_data": {
+            "total_size_of_input": 0,
+            "n_files": 0,
+            "duration": "00:00:02.065",
+            "n_nodes": 1,
+            "compute_name": "benchmark",
+            "pipeline_step": "prepare_data"
+        },
+        "process_data": {
+            "duration": "00:00:01.492",
+            "n_nodes": 1,
+            "compute_name": "benchmark",
+            "pipeline_step": "process_data"
+        }
+    },
+    "max_nodes_used": 1
+}

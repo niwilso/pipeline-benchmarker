@@ -1,0 +1,5 @@
+datetime,run_id,pipeline_duration,compute_name,compute_size,compute_priority,compute_region,step_name,prepare_data_total_size_of_input,prepare_data_n_files,duration,n_nodes
+2021-03-13 01:48:44,bd674bec-38e9-438c-80ca-694ef2d1166d,00:02:40.565,benchmark,STANDARD_D2_V2,Dedicated,westus,prepare_data,0.0,0.0,00:00:02.187,1
+2021-03-13 01:48:44,bd674bec-38e9-438c-80ca-694ef2d1166d,00:02:40.565,benchmark,STANDARD_D2_V2,Dedicated,westus,process_data,,,00:00:01.246,1
+2021-03-13 01:53:14,532935a6-960c-4acc-8f48-e16ef55a9509,00:02:52.479,benchmark,STANDARD_D2_V2,Dedicated,westus,prepare_data,0.0,0.0,00:00:02.464,1
+2021-03-13 01:53:14,532935a6-960c-4acc-8f48-e16ef55a9509,00:02:52.479,benchmark,STANDARD_D2_V2,Dedicated,westus,process_data,,,00:00:01.225,1
