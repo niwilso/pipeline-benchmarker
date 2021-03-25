@@ -5,3 +5,11 @@ This directory contains code (`mlops` and `pipelinebenchmarker`) and documentati
 For an example of how to implement the `PipelineBenchmarker` class in an AML pipeline, please refer to the `mlops/example_pipeline` and `docs` directories.
 
 A corresponding blog post article covering how this module has been used in the real world will be available soon.
+
+## Testing
+
+To run unit tests, execute the following line in this top-level directory.
+
+```cmd
+pytest tests
+```
